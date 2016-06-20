@@ -1,0 +1,14 @@
+* Key-Value in-memory store with built-in persistence (snapshotting or journaling to disk)
+** Emphasizes its powerful, optimized set of data structures and commands that allow
+   users to simplify complex problems
+
+Use cases include
+* Storing user sessions
+* Leaderboards
+* Ordering by user votes
+* Maintaining counts
+
+Links:
+http://www.paperplanes.de/2010/2/16/a_collection_of_redis_use_cases.html
+http://oldblog.antirez.com/post/take-advantage-of-redis-adding-it-to-your-stack.html
+http://stackoverflow.com/questions/7888880/what-is-redis-and-what-do-i-use-it-for
